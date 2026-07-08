@@ -1,0 +1,3 @@
+/home/shashank/Desktop/ipc/ipc-bench/build/CMakeFiles/ipc_bench.dir
+/home/shashank/Desktop/ipc/ipc-bench/build/CMakeFiles/edit_cache.dir
+/home/shashank/Desktop/ipc/ipc-bench/build/CMakeFiles/rebuild_cache.dir
